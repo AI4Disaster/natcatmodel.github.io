@@ -7,7 +7,7 @@ layout: home
 
 <div class="divider">
     <div class="left">
-        <img id="profilepic" width="200" height="200" src="assets/profile.jpg/" alt="Profile">
+        <img id="profilepic" width="200" height="200" src="assets/profile.JPG" alt="Profile">
     </div>
     <div class="right">
         <p>欢迎来到 NatCATmodeling</p>
