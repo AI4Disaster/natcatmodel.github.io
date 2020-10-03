@@ -7,10 +7,10 @@ layout: home
 
 <div class="divider">
     <div class="left">
-        <img id="profilepic" width="200" height="200" src="assets/profile.jpg" alt="Profile">
+        <img id="profilepic" width="200" height="200" src="assets/profile.jpg/" alt="Profile">
     </div>
     <div class="right">
-        <p>欢迎来到 NatCATmodeling </p>
+        <p>欢迎来到 NatCATmodeling</p>
         <p>我是马健, 博士研究生，就读于北京师范大学减灾与应急管理研究院</p>
         <p>
            研究方向：区域地震风险模型开发、概率地震风险分析（PSHA）、暴露模型、风险模型的不确定性量化分析和巨灾保险
