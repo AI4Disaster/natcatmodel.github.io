@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 
-This is the source code for my [blog](https://ljvmiranda921.github.io). It's a static
+This is the source code for my [blog](https://natcatmodel.github.io). It's a static
 website powered by [Jekyll](https://jekyllrb.com/). 
 
 ## Set-up
@@ -18,8 +18,8 @@ $ sudo gem install bundler
 Then, build the dependencies and call `jekyll serve`
 
 ```shell
-$ git clone https://github.com/ljvmiranda921/ljvmiranda921.github.io.git 
-$ cd ljvmiranda921.github.io/
+$ git clone https://github.com/natcatmodel/natcatmodel.github.io
+$ cd natcatmodel.github.io
 $ bundle install
 $ bundle exec jekyll serve --livereload
 ```
