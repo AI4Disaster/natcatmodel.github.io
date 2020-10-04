@@ -16,7 +16,7 @@ layout: home
            研究方向：地震风险模型（概率地震风险分析-PSHA、暴露模型、易损性模型）、风险模型的不确定性以及巨灾保险方案设计
         </p>
         <p>
-           2019年, 访学全球地震风险模型基金会(Global Earthquake Model Foundation)，师从<a 
+           2019年, 访学全球地震风险模型基金会(GEM)，师从<a 
            href= "https://www.researchgate.net/profile/Vitor_Silva7/">Dr. Vitor Silvia</a>和<a 
            href= "https://scholar.google.com/citations?user=3B8O4MEAAAAJ&hl=en/">Dr. Anirudh Rao</a>，开发中国
            大陆住宅暴露模型
