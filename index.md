@@ -13,7 +13,7 @@ layout: home
         <p>欢迎来到 NatCATmodeling</p>
         <p>我是马健, 博士研究生，就读于北京师范大学减灾与应急管理研究院</p>
         <p>
-           研究方向：区域地震风险模型开发、概率地震风险分析（PSHA）、暴露模型、风险模型的不确定性量化分析和巨灾保险
+           ###研究方向：区域地震风险模型开发、概率地震风险分析（PSHA）、暴露模型、风险模型的不确定性量化分析和巨灾保险
         </p>
         <p>
            2019年, 访学全球地震风险模型基金会(Global Earthquake Model Foundation)，师从 Dr. Vitor Silvia 和 Dr. Anirudh Rao，开发中国
